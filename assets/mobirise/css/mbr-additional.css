@@ -1458,7 +1458,7 @@ body {
   text-align: center;
 }
 .cid-rqzM3Cf8cW {
-  padding-top: 30px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
@@ -1496,6 +1496,9 @@ body {
     padding: 15px;
     -webkit-flex: 0 0 20%;
   }
+}
+.cid-rqzM3Cf8cW .card-title {
+  text-align: center;
 }
 .cid-rqzPK86Rxt {
   padding-top: 90px;
